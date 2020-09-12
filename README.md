@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vidhant</h1>
-<h3 align="center">A Systems Engineer from India. Lets build stuff together!</h3>
+<h3 align="center">A Systems Engineer from India. Lets build amazing stuff together!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vidhantmatta" alt="vidhantmatta" /> </p>
 
-- 🌱 I’m currently learning **Deep Learning Modules, Pytorch**
+- 🌱 I’m currently learning **Deep Learning, Pytorch, Dockers**
 
 - 📫 You can reach me at **mattavidhant@gmail.com** 
 
