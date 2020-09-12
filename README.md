@@ -28,7 +28,7 @@
 </p>
 
 <p align="center">&nbsp;
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=killswitchh&show_icons=true" alt="killswitchh" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=vidhantmatta&show_icons=true" alt="vidhantmatta" />
 </p>
 
 <p align="center">
