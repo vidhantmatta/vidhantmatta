@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vidhantmatta" alt="vidhantmatta" /> </p>
 
-- 🌱 I’m currently learning **Deep Learning, Pytorch, Dockers**
+- 🌱 I’m currently learning **Scaling Systems, Data Science**
 
 - 📫 You can reach me at **mattavidhant@gmail.com** 
 
